@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Ryunosuke !!
 
-<!--
-**ryfiiii/ryfiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 🌈 About
+- 🎨 Portfolio: [portfolio.ryfiii.com](https://portfolio.ryfiii.com/)
+- 🐦 Twitter: [@aiueo1234xyz](https://x.com/aiueo1234xyz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🚀 Skills
+### 🎨 Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,sass,tailwind&theme=light)](https://skillicons.dev)
+
+### 💻 Backend
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql&theme=light)](https://skillicons.dev)
+
+### 🛠 Others
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,windows&theme=light)](https://skillicons.dev)
+
+<br>
+
+## 📊 Activity
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryfiiii&layout=compact&theme=tokyonight)
