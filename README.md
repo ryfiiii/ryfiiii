@@ -4,8 +4,6 @@
 
 ## 🌈 About
 - 💼 Portfolio: [portfolio.ryfiii.com](https://portfolio.ryfiii.com/)
-- 🐦 Twitter: [@aiueo1234xyz](https://x.com/aiueo1234xyz)
-- 📝 Blog: [RyuTech](https://wp.ryfiii.com/)
 
 <br>
 
